@@ -1,5 +1,8 @@
 My solutions to challenges from the HackerRank's Interview Preparation Kit.
 Solutions were written in Go or C++ (where it wasn't possible to use Go).
+I think they're quite easy to understand and as compact as possible at the same time.
+
+**Warning**: solutions are mine and every approach might be biased and/or suboptimal (though passing all test cases).
 
 ## Table of Contents
 
