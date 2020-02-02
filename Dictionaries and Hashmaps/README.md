@@ -1,6 +1,6 @@
 # Dictionaries and Hashmaps
 
-## Hash Tables: Ransom Note
+## [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 
 ```go
 func checkMagazine(magazine []string, note []string) {
@@ -25,7 +25,7 @@ func checkMagazine(magazine []string, note []string) {
 }
 ```
 
-## Two Strings
+## [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 
 ```go
 func twoStrings(s1 string, s2 string) string {
@@ -42,7 +42,7 @@ func twoStrings(s1 string, s2 string) string {
 }
 ```
 
-## Sherlock and Anagrams
+## [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 
 ```go
 func sherlockAndAnagrams(s string) int32 {
@@ -79,7 +79,7 @@ func sherlockAndAnagrams(s string) int32 {
 }
 ```
 
-## Count Triplets
+## [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 
 ```go
 func countTriplets(arr []int64, r int64) int64 {
@@ -107,7 +107,7 @@ func countTriplets(arr []int64, r int64) int64 {
 }
 ```
 
-## Frequency Queries
+## [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
 
 ```go
 func remove(s []int32, val int32) []int32 {
