@@ -111,67 +111,67 @@ func countTriplets(arr []int64, r int64) int64 {
 
 ```go
 func remove(s []int32, val int32) []int32 {
-	for i, v := range s {
-		if v == val {
-			s[len(s)-1], s[i] = s[i], s[len(s)-1]
-			return s[:len(s)-1]
-		}
-	}
-	return s
+    for i, v := range s {
+        if v == val {
+            s[len(s)-1], s[i] = s[i], s[len(s)-1]
+            return s[:len(s)-1]
+        }
+    }
+    return s
 }
 
 func freqQuery(queries [][]int32) []int32 {
-	var ret []int32
-	data := make(map[int32]int)
-	freq := make(map[int][]int32)
-	for _, q := range queries {
-		switch q[0] {
-		case 1:
-			// Delete current frequency from frequency storage.
-			f := data[q[1]]
-			e := freq[f]
+    var ret []int32
+    data := make(map[int32]int)
+    freq := make(map[int][]int32)
+    for _, q := range queries {
+        switch q[0] {
+        case 1:
+            // Delete current frequency from frequency storage.
+            f := data[q[1]]
+            e := freq[f]
 
-			e = remove(e, q[1])
-			if len(e) == 0 {
-				delete(freq, f)
-			} else {
-				freq[f] = e
-			}
+            e = remove(e, q[1])
+            if len(e) == 0 {
+                delete(freq, f)
+            } else {
+                freq[f] = e
+            }
 
-			// Add new frequency to frequency storage.
-			n := freq[f+1]
-			n = append(n, q[1])
-			freq[f+1] = n
-			data[q[1]]++
-		case 2:
-			// Delete current frequency from frequency storage.
-			f := data[q[1]]
-			e := freq[f]
+            // Add new frequency to frequency storage.
+            n := freq[f+1]
+            n = append(n, q[1])
+            freq[f+1] = n
+            data[q[1]]++
+        case 2:
+            // Delete current frequency from frequency storage.
+            f := data[q[1]]
+            e := freq[f]
 
-			e = remove(e, q[1])
-			if len(e) == 0 {
-				delete(freq, f)
-			} else {
-				freq[f] = e
-			}
+            e = remove(e, q[1])
+            if len(e) == 0 {
+                delete(freq, f)
+            } else {
+                freq[f] = e
+            }
 
-			// Add new frequency to frequency storage.
-			if f-1 <= 0 {
-				delete(data, q[1])
-			} else {
-				n := freq[f-1]
-				n = append(n, q[1])
-				freq[f-1] = n
-				data[q[1]]--
-			}
-		case 3:
-			if len(freq[int(q[1])]) > 0 {
-				ret = append(ret, 1)
-			} else {
-				ret = append(ret, 0)
-			}
-		}
-	}
-	return ret
+            // Add new frequency to frequency storage.
+            if f-1 <= 0 {
+                delete(data, q[1])
+            } else {
+                n := freq[f-1]
+                n = append(n, q[1])
+                freq[f-1] = n
+                data[q[1]]--
+            }
+        case 3:
+            if len(freq[int(q[1])]) > 0 {
+                ret = append(ret, 1)
+            } else {
+                ret = append(ret, 0)
+            }
+        }
+    }
+    return ret
 }
 ```
