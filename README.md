@@ -18,6 +18,12 @@ I think they're quite easy to understand and as compact as possible at the same 
     3. Sherlock and Anagrams
     4. Count Triplets
     5. Frequency Queries
+3. Greedy Algorithms
+    1. Minimum Absolute Difference in an Array
+    2. Luck Balance
+    3. Greedy Florist
+    4. Max Min
+    5. Reverse Shuffle Merge
 
 ## Status
 
