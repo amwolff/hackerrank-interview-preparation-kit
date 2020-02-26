@@ -12,13 +12,18 @@ I think they're quite easy to understand and as compact as possible at the same 
     3. New Year Chaos
     4. Minimum Swaps 2
     5. Array Manipulation
-2. Dictionaries and Hashmaps
+2. Dynamic Programming
+    1. Max Array Sum
+    2. Abbreviation
+    3. Candies
+    4. Decibinary Numbers
+3. Dictionaries and Hashmaps
     1. Hash Tables: Ransom Note
     2. Two Strings
     3. Sherlock and Anagrams
     4. Count Triplets
     5. Frequency Queries
-3. Greedy Algorithms
+4. Greedy Algorithms
     1. Minimum Absolute Difference in an Array
     2. Luck Balance
     3. Greedy Florist
@@ -27,6 +32,6 @@ I think they're quite easy to understand and as compact as possible at the same 
 
 ## Status
 
-▮▮▮▮▮▮▮▮▮▮▯▯▯▯▯▯▯ 59%
+⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪ 70%
 
 This repo is still a work in progress.
