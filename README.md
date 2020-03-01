@@ -35,6 +35,11 @@ I think they're quite easy to understand and as compact as possible at the same 
     3. Reverse a doubly linked list
     4. Find Merge Point of Two Lists
     5. Linked Lists: Detect a Cycle
+6. Miscellaneous
+    1. Flipping bits
+    2. Time Complexity: Primality
+    3. Friend Circle Queries
+    4. Maximum Xor
 
 ## Status
 
