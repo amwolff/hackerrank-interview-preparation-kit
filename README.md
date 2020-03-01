@@ -40,6 +40,11 @@ I think they're quite easy to understand and as compact as possible at the same 
     2. Time Complexity: Primality
     3. Friend Circle Queries
     4. Maximum Xor
+7. Recursion and Backtracking
+    1. Recursion: Fibonacci Numbers
+    2. Recursion: Davis' Staircase
+    3. Crossword Puzzle
+    4. Recursive Digit Sum
 
 ## Status
 
