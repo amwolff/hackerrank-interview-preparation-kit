@@ -12,23 +12,29 @@ I think they're quite easy to understand and as compact as possible at the same 
     3. New Year Chaos
     4. Minimum Swaps 2
     5. Array Manipulation
-2. Dynamic Programming
-    1. Max Array Sum
-    2. Abbreviation
-    3. Candies
-    4. Decibinary Numbers
-3. Dictionaries and Hashmaps
+2. Dictionaries and Hashmaps
     1. Hash Tables: Ransom Note
     2. Two Strings
     3. Sherlock and Anagrams
     4. Count Triplets
     5. Frequency Queries
+3. Dynamic Programming
+    1. Max Array Sum
+    2. Abbreviation
+    3. Candies
+    4. Decibinary Numbers
 4. Greedy Algorithms
     1. Minimum Absolute Difference in an Array
     2. Luck Balance
     3. Greedy Florist
     4. Max Min
     5. Reverse Shuffle Merge
+5. Linked Lists
+    1. Insert a node at a specific position in a linked list
+    2. Inserting a Node Into a Sorted Doubly Linked List
+    3. Reverse a doubly linked list
+    4. Find Merge Point of Two Lists
+    5. Linked Lists: Detect a Cycle
 
 ## Status
 
