@@ -66,6 +66,12 @@ I think they're quite easy to understand and as compact as possible at the same 
     4. Min Max Riddle
     5. Castle on the Grid
     6. Poisonous Plants
+11. String Manipulation
+    1. Strings: Making Anagrams
+    2. Alternating Characters
+    3. Sherlock and the Valid String
+    4. Special String Again
+    5. Common Child
 
 ## Status
 
