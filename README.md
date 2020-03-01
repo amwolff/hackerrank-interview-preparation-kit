@@ -59,6 +59,13 @@ I think they're quite easy to understand and as compact as possible at the same 
     3. Sorting: Comparator
     4. Fraudulent Activity Notifications
     5. Merge Sort: Counting Inversions
+10. Stacks and Queues
+    1. Balanced Brackets
+    2. Queues: A Tale of Two Stacks
+    3. Largest Rectangle
+    4. Min Max Riddle
+    5. Castle on the Grid
+    6. Poisonous Plants
 
 ## Status
 
