@@ -53,6 +53,12 @@ I think they're quite easy to understand and as compact as possible at the same 
     5. Minimum Time Required
     6. Maximum Subarray Sum
     7. Making Candies
+9. Sorting
+    1. Sorting: Bubble Sort
+    2. Mark and Toys
+    3. Sorting: Comparator
+    4. Fraudulent Activity Notifications
+    5. Merge Sort: Counting Inversions
 
 ## Status
 
