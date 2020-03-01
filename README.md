@@ -45,6 +45,14 @@ I think they're quite easy to understand and as compact as possible at the same 
     2. Recursion: Davis' Staircase
     3. Crossword Puzzle
     4. Recursive Digit Sum
+8. Search
+    1. Hash Tables: Ice Cream Parlor
+    2. Swap Nodes [Algo]
+    3. Pairs
+    4. Triple sum
+    5. Minimum Time Required
+    6. Maximum Subarray Sum
+    7. Making Candies
 
 ## Status
 
