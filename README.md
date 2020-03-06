@@ -86,6 +86,6 @@ I think they're quite easy to understand and as compact as possible at the same 
 
 ## Status
 
-⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪ 70%
+⚫⚫⚫⚫⚫⚫⚫⚪⚪⚪ 71%
 
 This repo is still a work in progress.
