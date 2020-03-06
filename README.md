@@ -72,6 +72,17 @@ I think they're quite easy to understand and as compact as possible at the same 
     3. Sherlock and the Valid String
     4. Special String Again
     5. Common Child
+12. Trees
+    1. Tree: Height of a Binary Tree
+    2. Binary Search Tree : Lowest Common Ancestor
+    3. Trees: Is This a Binary Search Tree?
+    4. Tree: Huffman Decoding
+    5. Balanced Forest
+13. Warm-up Challenges
+    1. Sock Merchant
+    2. Counting Valleys
+    3. Jumping on the Clouds
+    4. Repeated String
 
 ## Status
 
